@@ -1,6 +1,6 @@
 # Tours React Project
 
-[Go to live demo](https://birthday-buddy-rivki.netlify.app/)
+[Go to live demo](https://tours-rivki.netlify.app/)
 
 This is a simple React project built with Vite. I created this project as part of React course on Udemy by John Smilga. It serves as a practice exercise for utilizing the useEffect hook in React.
 
